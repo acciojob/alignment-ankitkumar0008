@@ -9,3 +9,9 @@ table{
   padding: 1px; 
   margin-bottom:10px;
 }
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
